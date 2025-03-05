@@ -8,6 +8,11 @@ class GlobalMembers {
 	
   static int i=55;            //Global Variable ( any variable delared outside method )
 
+  static
+  {
+      System.out.println("SIB- Static initializer block");
+
+  } 
   public static void main(String args[])   //Static Method or Static Context
   {
       int i =25;                  //Local Variable	( Any variable declared inside method )
