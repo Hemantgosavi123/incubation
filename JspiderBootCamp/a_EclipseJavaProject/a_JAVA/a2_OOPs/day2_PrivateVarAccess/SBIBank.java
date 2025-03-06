@@ -1,4 +1,4 @@
-package Day2_PrivateVarAccess;
+package day2_PrivateVarAccess;
 
 class ATM {
     private double money=200000;    //State

@@ -1,4 +1,4 @@
-package Day2_PrivateVarAccess;
+package day2_PrivateVarAccess;
 
 class Company {
     public static void main(String args[])
